@@ -1,0 +1,12 @@
+{
+  "Response": [
+    {
+      "ScanID": "0000000300-27-03-2024-09-36-17                                  ",
+      "ReportDetails": "Sinus Rhythm. PR is normal. Wide QRS. Normal QT interval. QRS Axis is normal. ECG not normal please refer to cardiologist.\n\n",
+      "Physician": "Cardio Test Technician",
+      "Cardiologist": "Cardio Test Consultant2",
+      "Interpretation": "Sinus Rhythm. PR is normal. Wide QRS. Normal QT interval. QRS Axis is normal. ECG not normal please refer to cardiologist.",
+      "ReportId": 47519
+    }
+  ]
+}
